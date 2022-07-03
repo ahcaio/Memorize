@@ -11,7 +11,6 @@
 		256149532871ACAE001BC752 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256149522871ACAE001BC752 /* ContentView.swift */; };
 		256149552871ACB0001BC752 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 256149542871ACB0001BC752 /* Assets.xcassets */; };
 		256149582871ACB0001BC752 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 256149572871ACB0001BC752 /* Preview Assets.xcassets */; };
-		2561495F2871B253001BC752 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2561495E2871B253001BC752 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +19,6 @@
 		256149522871ACAE001BC752 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		256149542871ACB0001BC752 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		256149572871ACB0001BC752 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2561495E2871B253001BC752 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +53,6 @@
 			children = (
 				256149502871ACAE001BC752 /* MemorizeApp.swift */,
 				256149522871ACAE001BC752 /* ContentView.swift */,
-				2561495E2871B253001BC752 /* SecondView.swift */,
 				256149542871ACB0001BC752 /* Assets.xcassets */,
 				256149562871ACB0001BC752 /* Preview Content */,
 			);
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2561495F2871B253001BC752 /* SecondView.swift in Sources */,
 				256149532871ACAE001BC752 /* ContentView.swift in Sources */,
 				256149512871ACAE001BC752 /* MemorizeApp.swift in Sources */,
 			);
