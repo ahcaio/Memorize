@@ -42,6 +42,7 @@ struct CardView: View {
                     .frame(width: 100.0, height: 150.0)
             }
         }
+        
     }
 }
 

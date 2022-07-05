@@ -19,15 +19,14 @@ class EmojiMemoryGame: ObservableObject {
         }
     }
     
-    
     //MARK: Access to the Model
     var cards: Array<MemoryGame<String>.Card> {
         model.cards
     }
     
+    print("deployed")
     //MARK: Intent
     func choose(card: MemoryGame<String>.Card) {
         model.choose(card: card)
-        
     }
 }
