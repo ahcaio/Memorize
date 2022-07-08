@@ -27,5 +27,6 @@ class EmojiMemoryGame: ObservableObject {
     //MARK: Intent
     func choose(card: MemoryGame<String>.Card) {
         model.choose(card: card)
+        print("deploy")
     }
 }
